@@ -58,8 +58,7 @@ You'll need **Python 3.6** or newer installed on your system.
 
 1.  **Clone the repository** to your local machine:
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/lahkopo/Python-Fractal-Generator
     ```
 
 2.  **Create and activate a virtual environment**:
